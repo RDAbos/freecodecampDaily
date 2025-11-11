@@ -1,0 +1,7 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+
+
+if __name__ == '__main__':
+
+    expression = input()
+    eval(expression) 
